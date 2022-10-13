@@ -1,0 +1,21 @@
+[
+{
+    "id":"1",
+    "title":"Batman",
+    "director":"Nolan",
+    "year":"2008"
+},
+{
+    "id":"2",
+    "title":"Lord of the Rings",
+    "director":"Spielberg",
+    "year":"2000"
+},
+{
+    "id":"3",
+    "title":"Fast n Furious",
+    "director":"Tarantino",
+    "year":"2002"
+}
+
+]
